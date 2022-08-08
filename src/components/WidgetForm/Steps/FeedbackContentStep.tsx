@@ -66,5 +66,5 @@ export function FeedbackContentStep(props: FeedbackContentStepProps) {
                 </footer>
             </form>
         </>      
-);
+    );
 }
